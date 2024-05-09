@@ -1,0 +1,33 @@
+{
+  "name": "curso-node-js-2024",
+  "version": "1.0.0",
+  "description": "Curso node JS 2024",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaarmaan13/curso-node-js-2024.git"
+  },
+  "keywords": [
+    "js",
+    "node",
+    "npm"
+  ],
+  "author": "Manuel Del Castillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaarmaan13/curso-node-js-2024/issues"
+  },
+  "homepage": "https://github.com/kaarmaan13/curso-node-js-2024#readme",
+  "dependencies": {
+    "picocolors": "1.0.0"
+  },
+  "devDependencies": {
+    "standard": "17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
