@@ -4,6 +4,7 @@
   "description": "Curso node JS 2024",
   "main": "index.js",
   "scripts": {
+    "dev": "nodemon ./clase2/1.http.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -25,6 +26,7 @@
     "picocolors": "1.0.0"
   },
   "devDependencies": {
+    "nodemon": "3.1.0",
     "standard": "17.1.0"
   },
   "eslintConfig": {
